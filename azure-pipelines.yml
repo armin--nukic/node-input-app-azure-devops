@@ -2,7 +2,7 @@ trigger:
   - main
 
 pool:
-  name: "Test pool windows"
+  vmImage: "ubuntu-latest"
 
 steps:
   - task: NodeTool@0
