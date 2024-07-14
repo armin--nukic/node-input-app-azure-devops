@@ -9,6 +9,12 @@ This is a simple Node.js application that allows users to input text, submit it,
 - 📄 Display entered text with styled output
 - 🔙 Go back button
 
+## Azure DevOps Azure Pipeline
+
+This project includes an Azure Pipeline set up on Azure DevOps for continuous integration and deployment.
+
+You can view the pipeline and its status [here](https://dev.azure.com/testict119/Gihub-input-app/_build).
+
 ## 🚀 Getting Started
 
 Follow these instructions to get a copy of the project up and running on your local machine.
@@ -22,16 +28,16 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1. **Clone the repository:**
 
-    ```bash
-    git clone https://github.com/armin--nukic/node-input-app-azure-devops
-    cd node-input-app-azure-devops
-    ```
+   ```bash
+   git clone https://github.com/armin--nukic/node-input-app-azure-devops
+   cd node-input-app-azure-devops
+   ```
 
 2. **Install dependencies:**
 
-    ```bash
-    npm install
-    ```
+   ```bash
+   npm install
+   ```
 
 ### 🚀 Running the Application
 
@@ -39,3 +45,4 @@ To run the application, use the following command:
 
 ```bash
 node index.js
+```
