@@ -47,5 +47,10 @@ To run the application, use the following command:
 node index.js
 ```
 
+DEVOPS AZURE DASHBOARD
+
 ![image](https://github.com/user-attachments/assets/27c8834f-3d19-4d0a-acf4-9cfea2c9a89c)
+
+
+![image](https://github.com/user-attachments/assets/30ae079b-b87b-46f8-8c03-007babe0adbb)
 
