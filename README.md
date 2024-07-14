@@ -46,3 +46,6 @@ To run the application, use the following command:
 ```bash
 node index.js
 ```
+
+![image](https://github.com/user-attachments/assets/27c8834f-3d19-4d0a-acf4-9cfea2c9a89c)
+
